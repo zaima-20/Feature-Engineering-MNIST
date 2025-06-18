@@ -1,0 +1,7 @@
+This file includes necessary libraries:
+
+```txt
+numpy
+matplotlib
+scikit-learn
+tensorflow
