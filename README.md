@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Feature Engineering for Enhanced Accuracy in Image Classification
 
 This project explores the impact of feature engineering techniques to enhance digit classification accuracy using the MNIST dataset. It implements and compares Neural Networks, Linear Discriminant Analysis (LDA), and Support Vector Machines (SVM) to evaluate their effectiveness in feature extraction and classification.
@@ -104,3 +105,7 @@ For any queries:
 * [rohiyashafiq1020@gmail.com](mailto:rohiyashafiq1020@gmail.com)
 
 
+=======
+# Feature-Engineering-MNIST
+Feature Engineering for Enhanced Accuracy in Image Classification 
+>>>>>>> 121f7feaf96fdf87d2dcd03f67b5bb2dad601c84
